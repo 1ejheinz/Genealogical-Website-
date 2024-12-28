@@ -1,0 +1,480 @@
+g1/p1.htm#i3|Dale|Florence Lee Reed /Dale/|25 JUL 1893|Cave in Rock, Hardin County, Illinois, USA|20 MAR 1992|Rosiclare, Hardin, Illinois, USA|
+g1/p1.htm#i4|Dale|Lillie Rose Carney /Dale/|9 JAN 1897|Hardin County, Illinois, USA|5 DEC 1997|Alexandria, Fairfax County, Virginia, USA|
+g1/p1.htm#i5|Dale|Laura Belle Patterson /Dale/|25 MAR 1909|McFarlan, Hardin, Illinois, USA|10 DEC 1966|Harrisburg, Saline, Illinois, USA|
+g1/p1.htm#i6|Dale|Reuben Avlon /Dale/|22 MAY 1905|Hardin County, Illinois, USA|26 APR 1967|Rosiclare, Hardin County, Illinois, USA|
+g1/p1.htm#i7|Dale|Dora Augusta Rose /Dale/|14 JUL 1907|Hardin County, Illinois, USA|5 AUG 1976|Rosiclare, Hardin, Illinois, USA|
+g1/p1.htm#i8|Dale|Joseph /Dale/|8 FEB 1913|Hardin County, Illinois, USA|MAY 1977|Elizabethtown, Hardin, Kentucky, USA|
+g1/p1.htm#i9|Dale|Christopher Columbus Jr /Dale/|20 NOV 1919|Hardin County, Illinois, USA|JUL 1976|Elizabethtown, Hardin, Illinois, USA|
+g1/p1.htm#i10|Taylor|Jacob F /Taylor/|14 FEB 1835|Kentucky, USA|19 AUG 1920|Calloway, Kentucky, USA|
+g1/p1.htm#i12|Heinz|Victoria Lena Dora Cramer /Heinz/|30 AUG 1874|Illinois, USA|1 JUN 1966|Illinois, USA|
+g1/p1.htm#i13|Heinz|Bertha M Trub /Heinz/|3 MAR 1888|Peoria County, Illinois, USA|12 APR 1980|East Peoria, Tazewell, Illinois, USA|
+g1/p1.htm#i14|Heinz|Mary A Loescher /Heinz/|25 AUG 1883|Peoria County, Illinois, USA|18 MAY 1978|Woodford, Illinois, USA|
+g1/p1.htm#i15|Rogers|Laminda A /Rogers/|24 DEC 1879|Kentucky, USA|17 MAY 1966|Mayfield, Graves, Kentucky, USA|
+g1/p1.htm#i16|Lovier|Arlie D /Lovier/|18 FEB 1911|Kentucky, USA|10 JUL 1990|Detroit, Wayne, Michigan, USA|
+g1/p1.htm#i17|Lovier|Wanetta Goldie /Lovier/|18 MAR 1901|Kentucky, USA|16 JUN 1986|Rolla, Phelps County, Missouri, USA|
+g1/p1.htm#i18|Derring|Bulah M /Derring/|25 MAY 1909|Calloway County, Kentucky, USA|1 MAY 2000|Wayne, Indiana, USA|
+g1/p1.htm#i19|Rydelski|Margaret L Lovier /Rydelski/|7 JUL 1922|Chicago, Cook, Illinois, USA|13 NOV 1984|Detroit, Wayne, Michigan, USA|
+g1/p1.htm#i20|Lovier|Arlie James /Lovier/|6 JUN 1946||12 FEB 2008||
+g1/p1.htm#i21|Rogers|Daniel Carroll /Rogers/|13 NOV 1843|Henry County, Tennessee, USA|28 JAN 1901|Calloway, Kentucky, USA|
+g1/p1.htm#i22|Crocket|Mary P /Crocket/|APR 1851|Calloway County, Kentucky, United States of America|1935|Calloway County, Kentucky, United States of America|
+g1/p1.htm#i23|Rogers|Ellen /Rogers/|ABT 1873|Kentucky, USA|1943||
+g1/p1.htm#i24|German|Elizabeth B /German/|MAY 1847|Illinois, USA|22 DEC 1928|Humphrey, Platte, Nebraska, USA|
+g1/p1.htm#i25|Lovier|William Henry /Lovier/|30 JAN 1878|Louisville, Jefferson, Kentucky, USA|7 FEB 1953|San Miguel, San Luis Obispo, California, USA|
+g1/p2.htm#i26|Lovier|Dora E /Lovier/|ABT 1880|Kentucky, USA|ABT 1935||
+g1/p2.htm#i27|Kester|Lula Mae Titus /Kester/|ABT 1880|California, USA|1 NOV 1957||
+g1/p2.htm#i28|Duboux|Anita M /Duboux/|13 APR 1886|California, USA|17 MAR 1973|San Miguel, San Luis Obispo, California, USA|
+g1/p2.htm#i29|Heinz|Charles H /Heinz/|6 JAN 1858|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|ABT 1891|USA|
+g1/p2.htm#i30|Reed|Christina Heinz /Reed/|13 MAY 1828|Baden-Württemberg, Germany|11 JUN 1902|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p2.htm#i31|Kirchgessner|Theresa A Gilles /Kirchgessner/|8 NOV 1886|Illinois, USA|1 JAN 1982||
+g1/p2.htm#i32|Gilles|Barbara Cecelia Pratt /Gilles/|18 JAN 1888|Peoria County, Illinois, USA|21 JAN 1934|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p2.htm#i33|Gilles|Albert Francis /Gilles/|22 JUN 1892|Peoria County, Illinois, USA|23 JUL 1981|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p2.htm#i34|Gilles|Cornelius J /Gilles/|2 APR 1894|West Peoria, Peoria County, Illinois, USA|9 JAN 1914|Illinois, USA|
+g1/p2.htm#i35|Gilles|Anna M /Gilles/|16 JUN 1899|Peoria County, Illinois, USA|16 MAR 1901|Peoria County, Illinois, USA|
+g1/p2.htm#i36|Gilles|Carl Francis /Gilles/|23 MAR 1901|Peoria County, Illinois, USA|3 MAR 1956|Peoria County, Illinois, USA|
+g1/p2.htm#i37|Gilles|Edward J "Shot" /Gilles/|8 SEP 1903|Kickapoo Twp., Peoria, Illinois, USA|2 OCT 1987|West Peoria, Peoria County, Illinois, USA|
+g1/p2.htm#i38|Gilles|Lawrence Sylvester /Gilles/|7 NOV 1905|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|3 FEB 1994|Bellevue, Peoria County, Illinois, USA|
+g1/p2.htm#i39|Gilles|Clementine V Halpin /Gilles/|4 MAR 1908|Peoria, Peoria County, Illinois, USA|FEB 2000|Bellevue, Peoria County, Illinois, USA|
+g1/p2.htm#i41|Seibert|Eve Heinz /Seibert/|15 JUN 1815|Darmstadt, Hesse, Germany|1 JUL 1894|Kickapoo Township, Peoria, Illinois, USA|
+g1/p2.htm#i42|West|David Franklin /West/|1869|Kentucky, USA|5 FEB 1961|Calloway County KY|
+g1/p2.htm#i43|Best|Albert /Best/|13 NOV 1875|Peoria County, Illinois, USA|17 AUG 1953|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p2.htm#i44|Barfoot|Chester Frederick /Barfoot/|6 AUG 1892|Illinois, USA|ABT 13 MAR 1959|Peoria, Peoria, Illinois, USA|
+g1/p2.htm#i45|Bain|Barbara L Heinz /Bain/|11 SEP 1937|Farmington, Fulton, Illinois, USA|||
+g1/p3.htm#i55|Gilles|Kathryn J. “Katie” /Gilles/|15 DEC 1889|Peoria County, Illinois, USA|22 DEC 1921|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p3.htm#i56|Best|Joseph V /Best/|12 SEP 1865|Peoria County, Illinois, USA|8 JAN 1926|Peoria County, Illinois, USA|
+g1/p3.htm#i57|Heinz|Andrew W /Heinz/|16 FEB 1823|Dietersheim bei Bingen am Rhein, Bingen, Hesse Darmstadt, Hessen, Allemagne|22 MAY 1907|Kickapoo Township, Peoria, Illinois, USA|
+g1/p3.htm#i58|Kirchgessner|Charles /Kirchgessner/|7 AUG 1885|Peoria County, Illinois, USA|19 MAY 1942|Woodford County, Illinois, USA|
+g1/p3.htm#i59|Pratt|Charles Elmer /Pratt/|27 MAR 1884|Peoria County, Illinois, USA|17 MAR 1968|Wyoming, Stark County, Illinois, USA|
+g1/p3.htm#i65|Lorius|Adele Della /Lorius/|15 MAY 1848|Switzerland|21 FEB 1895|Maroa, Macon, Illinois, USA|
+g1/p3.htm#i66|Allen|Martha Arrena /Allen/|7 DEC 1864|Sullivan, Moultrie, Illinois, USA|4 DEC 1954|Long Beach, Los Angeles, California, USA|
+g1/p3.htm#i67|Kingley|Fannie Hoffman /Kingley/|NOV 1849|Maroa, Macon, Illinois, USA|1915|Peoria, Illinois, USA|
+g1/p3.htm#i68|Hoffman|Hattie /Hoffman/|25 JAN 1845|La Heutte, Bern, Switzerland|25 DEC 1928|Oak, Nuckolls, Nebraska, USA|
+g1/p3.htm#i69|Dale|Lorene /Dale/|5 JUN 1921|Rosiclare, Hardin, Illinois, USA|27 JAN 2006|Peoria, Peoria, Illinois, USA|
+g1/p3.htm#i70|McDonnell|Catherine Best /McDonnell/|1857|Illinois, USA|1910|2320 north monroe street, Peoria City, Peoria, Illinois, USA|
+g1/p3.htm#i71|Maher|Fredrick J /Maher/|2 SEP 1928|Peoria County, Illinois, USA|21 AUG 1975|Kickapoo, Peoria, Illinois, USA|
+g1/p3.htm#i72|Tucker|William M /Tucker/|16 JUL 1885|Illinois, USA|4 NOV 1965|Illinois, USA|
+g1/p3.htm#i73|Vineyard|Harold /Vineyard/|ABT 1921|Gallatin, Illinois, USA||Gallatin County, Illinois, USA|
+g1/p3.htm#i74|Reed|Millie May /Reed/|2 NOV 1936||4 SEP 2019|Santa Rosa, Sonoma, California, USA|
+g1/p3.htm#i75|Boyd|Laura Reed /Boyd/|1934|Elizabethtown, Hardin, Illinois, USA|||
+g1/p4.htm#i76|Goins|Mary Dale /Goins/|1916||2004|Elizabethtown, Hardin, Illinois, USA|
+g1/p4.htm#i77|Carney|Walter A /Carney/|5 SEP 1897|Maynard, Middlesex, Massachusetts, USA|1 APR 1950|District of Columbia, USA|
+g1/p4.htm#i78|Jones|Della R. /Jones/|1919|Omaha, Gallatin, Illinois, USA|10 FEB 1980|Alton, Madison, Illinois, USA|
+g1/p4.htm#i79|Rendleman|Lawrence "Elbert" /Rendleman/|18 AUG 1931|Illinois, USA|21 JAN 2008|Elizabethtown, Hardin, Illinois, USA|
+g1/p4.htm#i81|Heinz|Henrietta /Heinz/|18 JUL 1907|Peoria County, Illinois, USA|23 AUG 1998|Peoria County, Illinois, USA|
+g1/p4.htm#i82|Heinz|Geraldine M /Heinz/|1914|Illinois, USA|1994||
+g1/p4.htm#i83|Crocker|Julius R /Crocker/|2 JAN 1907|Illinois, USA|3 DEC 1967||
+g1/p4.htm#i85|Hietter|Mary Ann Heinz /Hietter/|18 MAR 1850|Jubilee, Peoria, Illinois, USA|2 JAN 1944|Kickapoo, Peoria, Illinois, USA|
+g1/p4.htm#i86|Heinz|Marie E Braun /Heinz/|14 JUL 1885|Missouri, USA|18 SEP 1962|Peoria County, Illinois, USA|
+g1/p4.htm#i87|Rogers|Ruth Cook /Rogers/|1929|Peoria County, Illinois, USA|31 MAR 1962|Peoria County, Illinois, USA|
+g1/p4.htm#i88|Belt|Averilla Amelia Dale Price /Belt/|22 OCT 1865|Hardin County, Illinois, USA|18 JUL 1952|Harrisburg, Saline, Illinois, USA|
+g1/p4.htm#i89|Baugher|Mary Elizabeth Dale /Baugher/|5 MAY 1868|Hardin County, Illinois, USA|20 MAR 1901|Lamb, Hardin Co, IL, Illinois, USA|
+g1/p4.htm#i90|Dale|George L /Dale/|11 JUN 1858|Boone County, Kentucky, USA|30 APR 1939||
+g1/p4.htm#i91|Dale|William R. J. /Dale/|ABT 1847|Boone County, Kentucky, USA|12 FEB 1885|Hardin, Illinois, USA|
+g1/p4.htm#i92|Young|Mary Ann Heinz /Young/|12 MAR 1936|Illinois, USA|19 DEC 2021|Peoria, Peoria County, Illinois, USA|
+g1/p4.htm#i94|Hoffman|Nicholas /Hoffman/|1 JAN 1800|Darmstadt, Darmstadt, Hesse, Germany|26 NOV 1868|Pottstown, Peoria County, Illinois, United States of America|
+g1/p4.htm#i95|Rose|Mary J Estes /Rose/|30 JAN 1871|Kentucky, USA|27 FEB 1947|Rosiclare, Hardin, Illinois, USA|
+g1/p4.htm#i96|Estes|Daisy H Watson /Estes/|1897|Rosiclare, Hardin County, Illinois, USA|27 FEB 1956|West Frankfort, Franklin County, Illinois, USA|
+g1/p4.htm#i97|Estes|William E /Estes/|27 SEP 1898|Illinois, USA|21 OCT 1977|Hardin County, Illinois, USA|
+g1/p4.htm#i98|Estes|Leala A /Estes/|ABT 1900|Hardin County, Illinois, USA|ABT 1980|Illinois, USA|
+g1/p4.htm#i99|Estes|David P /Estes/|JAN 1842|Missouri, USA|ABT 1915|Hardin County, Illinois, USA|
+g1/p4.htm#i100|Estes|Elizabeth E /Estes/|NOV 1858|Hardin County, Illinois, USA|ABT 1915|Illinois, USA|
+g1/p5.htm#i101|German|Mary Ann /German/|6 MAY 1873|Kickapoo Township, Peoria County, Illinois, USA|9 NOV 1955|Yankton, Yankton County, South Dakota, USA|
+g1/p5.htm#i102|Gilles|Stanley R /Gilles/|3 OCT 1926|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|DEC 1986|Peoria, Peoria, Illinois, USA|
+g1/p5.htm#i105|Lovier|Jonnie /Lovier/|1895||1895||
+g1/p5.htm#i107|Fenstad|Pauline Magda Lovier /Fenstad/|ABT 1936||||
+g1/p5.htm#i109|Johnson|Jack /Johnson/|28 DEC 1895|Pike County, Kentucky, USA|BEF 2001|USA|
+g1/p5.htm#i110|Ester|Johann Nikolaus /Ester/|1752|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1837|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p5.htm#i111|Fleck|Elisabeth /Fleck/|1747|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1831|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p5.htm#i112|Heinz|Johann Michael /Heinz/|22 OCT 1745|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|19 MAR 1833|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p5.htm#i113|Cochran|Irvin /Cochran/|1864|Calloway County, Kentucky, USA|14 MAR 1943|Henry, Henry, Tennessee, USA|
+g1/p5.htm#i114|Estes|William Alexander /Estes/|6 JUL 1872|Dongola, Union, Illinois, USA|25 AUG 1932|Rosiclare, Hardin, Illinois, USA|
+g1/p5.htm#i115|Heinz|William F /Heinz/|1 SEP 1873|Peoria County, Illinois, USA|19 AUG 1894|Peoria County, Illinois, USA|
+g1/p5.htm#i116|Heinz|Sylvester F /Heinz/|28 JUL 1887|Peoria County, Illinois, USA|30 SEP 1908|Peoria County, Illinois, USA|
+g1/p5.htm#i117|Heinz|Clarence P /Heinz/|1 NOV 1889|Peoria County, Illinois, USA|11 APR 1891|Peoria County, Illinois, USA|
+g1/p5.htm#i118|Heinz|Henrietta F Speck /Heinz/|1 NOV 1889|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|1 NOV 1943|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p5.htm#i119|Heinz|Anna Eva Best /Heinz/|3 APR 1872|Peoria County, Illinois, USA|4 DEC 1971|Peoria County, Illinois, USA|
+g1/p5.htm#i120|Best|Peter Mathew /Best/, Jr|24 NOV 1869|Kickapoo, Peoria, Illinois, USA|6 JUN 1951|Peoria County, Illinois, USA|
+g1/p5.htm#i121|Best|Francis /Best/|25 JAN 1878|Peoria County, Illinois, USA|1963|Edwards, Peoria, Illinois, USA|
+g1/p5.htm#i122|Brutcher|Barbara Heinz /Brutcher/|24 DEC 1884|Illinois, USA|AUG 1970|Edwards, Peoria, Illinois, USA|
+g1/p6.htm#i126|Martin|Rebecca Susan /Martin/|ABT 1856|Kentucky, USA|25 OCT 1924|San Luis Obispo County, California, USA|
+g1/p6.htm#i128|Wood|Marie Lovier Bruce /Wood/|16 APR 1897|Tennessee, USA|7 APR 1974|Dallas, Dallas, Texas, USA|
+g1/p6.htm#i129|Lovier|Harry Paul /Lovier/|3 DEC 1915|Kentucky, USA|18 APR 1963|Dallas, Dallas, Texas, USA|
+g1/p6.htm#i130|Young|Vivian Carmicheal Wilson Lovier /Young/|ABT 1919|Texas, USA|BEF 2019|Texas, USA|
+g1/p6.htm#i131|Lovier|Paul Richard /Lovier/|17 SEP 1936|Dallas County, Texas, USA|22 JAN 2021|Mount Vernon, Franklin, Texas, USA|
+g1/p6.htm#i132|Greer|Esther Mozelle Lovier /Greer/|16 SEP 1913|Carbon, Eastland, Texas, USA|16 DEC 1983|Dallas, Dallas, Texas, USA|
+g1/p6.htm#i133|Marr|Myra J Lovier /Marr/|1939|Texas, USA|||
+g1/p6.htm#i134|Lovier|Betty C /Lovier/|1938|Texas, USA|BEF 2023||
+g1/p6.htm#i135|Heinz|Francis Frank /Heinz/|19 OCT 1842|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|22 OCT 1922|Kickapoo Township, Peoria, Illinois, USA|
+g1/p6.htm#i136|Heinz|Henry John /Heinz/|14 OCT 1840|Kickapoo (Oak Hill), Peoria County, Illinois, USA|22 AUG 1881|Kickapoo Township, Peoria, Illinois, USA|
+g1/p6.htm#i137|German|Maria Anna Gilles /German/|4 JUL 1829|Baden, Baden-Baden, Baden-Württemberg, Germany|27 JUN 1912|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p6.htm#i138|Gilles|Ignatius /Gilles/|17 MAR 1820|Darmstadt, Hesse, Germany|5 MAY 1895|West Peoria, Peoria County, Illinois, USA|
+g1/p6.htm#i139|Gilles|Frank Ignatius /Gilles/|2 JUN 1872|Peoria County, Illinois, USA|21 SEP 1902|Okarche, Kingfisher County, Oklahoma, USA|
+g1/p6.htm#i140|Gilles|Mary Ann /Gilles/|3 NOV 1859|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|13 DEC 1942|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p6.htm#i141|Gilles|Jacob /Gilles/|14 SEP 1857|Kickapoo, Peoria, Illinois, USA|31 DEC 1941|Villa Grove, Douglas, Illinois, USA|
+g1/p6.htm#i142|Gilles|Christina /Gilles/|1854|Illinois, USA|31 OCT 1935|Okarche, Canadian, Oklahoma, USA|
+g1/p6.htm#i145|Heinz|Joseph /Heinz/|1927|Peoria County, Illinois, USA|1927|Peoria County, Illinois, USA|
+g1/p6.htm#i146|Dodd|Sylvia Ann /Dodd/|1 JUL 1928|Peoria, Peoria, Illinois, USA|23 APR 1986|Woodford County, Illinois, USA|
+g1/p6.htm#i147|Reed|James Thomas /Reed/|4 JUL 1891|Hardin, Illinois, USA|13 JUL 1972|Rosiclare, Hardin, Illinois, USA|
+g1/p6.htm#i148|Reed|Duard Russell /Reed/|16 MAY 1923|Hardin County, Illinois, USA|27 APR 2004|Bethalto, Madison County, Illinois, USA|
+g1/p6.htm#i149|Reed|Mary Addis /Reed/|22 DEC 1925|Elizabethtown, Hardin, Illinois, USA|19 SEP 1992|Hardin County, Illinois, USA|
+g1/p6.htm#i150|Reed|Bill /Reed/|ABT 1928|Hardin County, Illinois, USA|||
+g1/p7.htm#i151|Reed|Bobby Gene /Reed/|30 DEC 1930|Illinois, USA|16 DEC 1993|Rosiclare, Hardin, Illinois, USA|
+g1/p7.htm#i152|Reed|Dorothy Rendleman /Reed/|ABT 1933|Hardin County, Illinois, USA|||
+g1/p7.htm#i153|Reed|Chris /Reed/|May 5th 1935|Hardin County, Illinois, USA|4 AUG 2017|Santa Rosa, Sonoma, California, USA|
+g1/p7.htm#i154|Wunderle|Karl William /Wunderle/|19 FEB 1960|St Louis, Missouri, USA|2017|Peoria, Peoria County, Illinois, USA|
+g1/p7.htm#i157|Heinz|Alexsirius (twin) /Heinz/|23 FEB 1895|Kickapoo, Peoria, Illinois, USA|24 FEB 1895|Kickapoo, Peoria, Illinois, USA|
+g1/p7.htm#i158|Heinz|Emma Christine /Heinz/|23 APR 1881|Peoria County, Illinois, USA|13 FEB 1899|Peoria County, Illinois, USA|
+g1/p7.htm#i161|Davis|Carolyn A Holocker /Davis/|3 OCT 1951|Peoria, Peoria, Illinois, USA|7 FEB 2008|Chillicothe, Peoria, Illinois, USA|
+g1/p7.htm#i162|Esther|Eva Catherine "Katherine" Heinz /Esther/|9 NOV 1785|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1860|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p7.htm#i163|Heinz|John H. /Heinz/|30 DEC 1849|Kickapoo, Peoria, Illinois, USA|27 OCT 1907|Champaign County, Illinois, USA|
+g1/p7.htm#i164|Heinz|Andrew /Heinz/|30 MAR 1847|Kickapoo, Peoria, Illinois, USA|13 AUG 1934|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p7.htm#i165|Heinz|Gertrude Emma /Heinz/|6 JUN 1903|Dunlap, Peoria, Illinois, USA|4 DEC 2002|Peoria Heights, Peoria, Illinois, USA|
+g1/p7.htm#i166|Dodd|Glenn William /Dodd/, Jr|6 AUG 1901|Illinois, USA|27 FEB 1969|Edwards, Peoria, Illinois, USA|
+g1/p7.htm#i167|Dodd|June M /Dodd/|3 SEP 1926|Peoria County, Illinois, USA|4 SEP 2016|Brimfield, Peoria County, Illinois, USA|
+g1/p7.htm#i168|Dodd|Samuel Charles /Dodd/|23 APR 1931|Peoria, Peoria County, Illinois, USA|24 OCT 2006|Yates City, Knox County, Illinois, USA|
+g1/p7.htm#i169|Dodd|Bonita M /Dodd/|ABT 1934|Illinois, USA|||
+g1/p7.htm#i170|Dodd|Rita D /Dodd/|ABT 1939|Illinois, USA|||
+g1/p7.htm#i171|Heinz|George /Heinz/|21 APR 1869|Illinois, USA|1870|Kickapoo, Peoria, Illinois, USA|
+g1/p7.htm#i172|Heinz|Kathryn Frances /Heinz/|25 NOV 1918|Kickapoo, Peoria County, Illinois, USA|29 MAY 2009|Peoria, Peoria County, Illinois, USA|
+g1/p7.htm#i173|Heinz|Gerald Henry /Heinz/|23 SEP 1913|Illinois, USA|7 DEC 1996|Brimfield, Peoria, Illinois, USA|
+g1/p7.htm#i174|Heinz|Walter George /Heinz/|28 MAY 1906|Illinois, USA|18 AUG 1989|Port Charlotte, Charlotte, Florida, USA|
+g1/p7.htm#i175|Heinz|Harold Peter /Heinz/|18 SEP 1911|Illinois, USA|31 JUL 1968||
+g1/p8.htm#i176|Heinz|John Richard /Heinz/|8 SEP 1921|Illinois, USA|13 JAN 1996|Edwards, Peoria, Illinois, USA|
+g1/p8.htm#i177|Heinz|Carl Frederick /Heinz/|13 OCT 1916|Illinois, USA|27 SEP 2003|Edwards, Peoria, Illinois, USA|
+g1/p8.htm#i178|Heinz|Evelyn Josephine /Heinz/|27 APR 1909|Illinois, USA|SEP 1978|Peoria, Peoria, Illinois, USA|
+g1/p8.htm#i179|Heinz|Thomas Lawrence /Heinz/|8 FEB 1907|Dunlap, Peoria, Illinois, USA|9 MAR 2000|Bettendorf, Scott, Iowa, USA|
+g1/p8.htm#i180|Heinz|Irene Rose /Heinz/|27 JAN 1909|Illinois, USA|29 SEP 1982||
+g1/p8.htm#i181|Heinz|Jerome N /Heinz/|16 MAY 1911|Nebraska, USA|1997||
+g1/p8.htm#i182|Heinz|Lucille Julia /Heinz/|6 MAR 1913|Illinois, USA|31 OCT 1990||
+g1/p8.htm#i183|Heinz|George William /Heinz/|20 APR 1905|Dunlap, Peoria, Illinois, USA|17 OCT 1972|Woodford County, Illinois, USA|
+g1/p8.htm#i184|Heinz|Margaret Fredericka /Heinz/|2 APR 1916||14 FEB 1917||
+g1/p8.htm#i192|Heinz|Annie M /Heinz/|ABT 1879|Illinois, USA|21 OCT 1953|Illinois, USA|
+g1/p8.htm#i193|Speck|Henry J. /Speck/, Jr|24 OCT 1884|Illinois, USA|28 JAN 1961|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p8.htm#i194|Heinz|Katherine /Heinz/|5 NOV 1875|Illinois, USA|23 APR 1956|Champaign, Illinois, USA|
+g1/p8.htm#i198|Crowder-Dunlap|Elinor /Crowder-Dunlap/|1915|Illinois, USA|15 OCT 1967|Buried at St. Mary's Cem. Kickapoo, IL., USA|
+g1/p8.htm#i199|Best|Elizabeth Anna  'Lizzie' Gilles /Best/|6 AUG 1863|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|17 FEB 1945|Villa Grove, Douglas County, Illinois, USA|
+g1/p8.htm#i200|Halpin|Leo Patrick /Halpin/|13 NOV 1901|Illinois, USA|1 APR 1960||
+g1/p9.htm#i201|Shockey|Kenneth Edward /Shockey/|1 JAN 1927|Pontiac, Livingston County, Illinois, USA|1 JAN 2005|Dade City, Pasco County, Florida, USA|
+g1/p9.htm#i202|Dooley|Leo Addison /Dooley/|1 SEP 1924|Quincy, Adams County, Illinois, USA|16 JUN 1990|Carthage, Hancock County, Illinois, USA|
+g1/p9.htm#i203|Boyer|Albert Taylor /Boyer/|13 OCT 1920|Morgan County, Alabama, USA|JUL 1977|Ocala, Marion, Florida, USA|
+g1/p9.htm#i204|Lawler|Victor /Lawler/|14 JUL 1923|Rushville, Schuyler, Illinois, USA|24 MAY 1993|Burbank, Los Angeles County, California, USA|
+g1/p9.htm#i206|Meyer|Louis Adam /Meyer/|28 JUL 1890|Champaign, Champaign, Illinois, USA|16 MAR 1957|Red Bluff, Tehama, California, USA|
+g1/p9.htm#i207|Mccoy|Lois Mary Gilles /Mccoy/|26 AUG 1894|Oak Hill, Peoria County, Illinois, United States of America|16 JAN 1937|Radnor, Peoria, Illinois, USA|
+g1/p9.htm#i208|Gilles|Anna Eileen Weinzerl /Gilles/|17 JAN 1921|Peoria County, Illinois, USA|31 MAY 2002|Peoria County, Illinois, USA|
+g1/p9.htm#i209|Gilles|John D. /Gilles/|8 MAY 1930|Illinois, USA|24 DEC 2020|Dunlap, Peoria County, Illinois, USA|
+g1/p9.htm#i210|Gilles|Ruth E Maher /Gilles/|23 FEB 1929|Illinois, USA|10 JUL 1989|Woodford, Illinois, USA|
+g1/p9.htm#i211|Gilles|Kathryn Genevieve Harker /Gilles/|3 JAN 1928|Peoria County, Illinois, USA|29 NOV 2006|Peoria, Peoria, Illinois, USA|
+g1/p9.htm#i212|Gilles|Mary Beth /Gilles/|2 NOV 1936|Peoria County, Illinois, USA|24 JUN 1942|Peoria, Peoria County, Illinois, USA|
+g1/p9.htm#i213|Gilles|Quentin James /Gilles/|13 OCT 1934|Illinois, USA|8 MAR 2011|Oregon, USA|
+g1/p9.htm#i214|Gilles|Mark A. "dobi" /Gilles/|29 AUG 1931|Peoria County, Illinois, USA|1 OCT 2008|Barrington, Lake, Illinois, USA|
+g1/p9.htm#i215|Shockley|Magdaline "Mary" Estes /Shockley/|22 SEP 1921|Salem, Livingston, Kentucky, USA|1 JUL 2007|Salt Lake City, Salt Lake, Utah, USA|
+g1/p9.htm#i218|Gilles|Laura Ludwig /Gilles/|28 SEP 1905|Illinois, USA|24 DEC 1990|Kickapoo, Peoria, Illinois, USA|
+g1/p9.htm#i219|Gilles|Donna J /Gilles/|23 APR 1938|Peoria, Peoria County, Illinois, USA|6 JUL 2003|Peoria, Peoria County, Illinois, USA|
+g1/p9.htm#i220|Gilles|Thomas Eugene /Gilles/|10 SEP 1931|Peoria, Peoria, Illinois, USA|25 SEP 2011|Edwards, Peoria, Illinois, USA|
+g1/p9.htm#i221|Muzzarelli|Norma Gilles /Muzzarelli/|1 MAY 1936|Farmington, Fulton, Illinois, USA|30 OCT 2007|Edwards, Peoria, Illinois, USA|
+g1/p9.htm#i222|Heinz|Steven /Heinz/|1876|Kickapoo, Peoria, Illinois, USA|1880|Kickapoo, Peoria, Illinois, USA|
+g1/p9.htm#i223|King|Margaret E Gilles /King/|2 JAN 1902|Peoria, Illinois, USA|22 FEB 1962|Peoria, Illinois, USA|
+g1/p9.htm#i224|Ritschel|Mary Ruth Gilles /Ritschel/|8 DEC 1908|Peoria, Peoria, Illinois, USA|22 SEP 1979|Peoria, Peoria, Illinois, USA|
+g1/p9.htm#i225|Gilles|Pauline M /Gilles/|27 JAN 1920|Kickapoo Twp, Peoria, Illinois, USA|DEC 1979|USA|
+g1/p10.htm#i226|Gilles|Clement C /Gilles/|19 NOV 1918|Peoria County, Illinois, USA|1 DEC 1990|Illinois, USA|
+g1/p10.htm#i227|Gilles|Richard A /Gilles/|8 JUN 1925|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|5 SEP 1992|Peoria, Peoria County, Illinois, USA|
+g1/p10.htm#i228|Gilles|Walter Bud /Gilles/|11 JUL 1922|Peoria County, Illinois, USA|3 JAN 1984|Peoria, Peoria, Illinois, USA|
+g1/p10.htm#i229|Weinzerl|Herbert J. /Weinzerl/|11 NOV 1916|Jefferson City, Cole County, Missouri, USA|30 AUG 1996|Peoria, Peoria, Illinois, USA|
+g1/p10.htm#i230|Lightcap|Lorraine R. Gilles /Lightcap/|22 FEB 1936|Winnebago County, Illinois, USA|14 MAY 2013|Rockford, Winnebago County, Illinois, USA|
+g1/p10.htm#i231|Horstman|Frances V. Gilles /Horstman/|9 DEC 1928|Newton, Jasper, Iowa, USA|11 NOV 2009|Peoria, Peoria County, Illinois, USA|
+g1/p10.htm#i232|Calles|Marie A. Gilles /Calles/|21 OCT 1935||8 FEB 2021|Portland, Multnomah County, Oregon, USA|
+g1/p10.htm#i233|Gilles|Kathryn E /Gilles/|28 SEP 1924|Peoria, Peoria County, Illinois, USA|7 DEC 2016|Palm Bay, Brevard County, Florida, USA|
+g1/p10.htm#i234|Estes|Rodney Wiley /Estes/|15 MAY 1913|Rosiclare, Hardin County, Illinois, USA|5 SEP 1987|West Frankfort, Franklin County, Illinois, USA|
+g1/p10.htm#i235|Heinz|Albert William /Heinz/|3 OCT 1874|Illinois, USA|15 APR 1913|Champaign, Champaign, Illinois, USA|
+g1/p10.htm#i236|Heinz|Lucas Theodore 'Luke' /Heinz/|4 MAR 1877|Illinois, USA|1 MAR 1956|Illinois, USA|
+g1/p10.htm#i237|Heinz|Cecelia Louise /Heinz/|1876|Pesotum, Champaign, Illinois, USA|1880|Pesotum, Champaign, Illinois, USA|
+g1/p10.htm#i238|Heinz|Elizabeth Stenger /Heinz/|30 APR 1842|Worth Township, Cook, Illinois, USA|8 FEB 1916|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p10.htm#i239|Heinz|Catharine Best /Heinz/|19 FEB 1865|Peoria County, Illinois, USA|20 JUL 1949|Kickapoo, Peoria, Illinois, USA|
+g1/p10.htm#i240|Heinz|Frank George /Heinz/|5 JUL 1866|Peoria County, Illinois, USA|17 APR 1948|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p10.htm#i241|Heinz|Elizabeth Christine Best /Heinz/|25 APR 1872|Kickapoo (Oak Hill), Peoria County, Illinois, USA|8 AUG 1939|Parkville, Perquimans, North Carolina, USA|
+g1/p10.htm#i242|Heinz|Edward Michael /Heinz/|26 AUG 1875|Peoria County, Illinois, USA|23 AUG 1947|Kickapoo, Peoria, Illinois, USA|
+g1/p10.htm#i243|Heinz|Marian A. /Heinz/|3 SEP 1877|Illinois, USA|25 SEP 1880|Peoria County, Illinois, USA|
+g1/p10.htm#i244|Heinz|John Henry /Heinz/|17 APR 1880|Peoria County, Illinois, USA|1955|Kickapoo, Peoria, Illinois, USA|
+g1/p10.htm#i245|Henderson|Alice Lovier Johnson /Henderson/|3 NOV 1903|Swann, Calloway, Kentucky, USA|26 APR 1947|McCracken, Kentucky, USA|
+g1/p10.htm#i246|Lovier|Mary Jan Stanford /Lovier/|8 MAY 1908|Puryear, Henry, Tennessee, USA|30 MAY 1984|Carmel, Monterey County, California, USA|
+g1/p10.htm#i247|Burgess|Buel "Bee" /Burgess/|3 AUG 1896|Hickman, Fulton, Kentucky, USA|OCT 1980|Rosiclare, Hardin, Illinois, USA|
+g1/p10.htm#i248|Johnson|Jack Lester /Johnson/|7 AUG 1923|Fulton, Fulton, Kentucky, USA|26 JUN 2002|Hardin County, Illinois, USA|
+g1/p10.htm#i249|Edwards|George M /Edwards/|20 JUL 1930|Oak Hill, Peoria County, Illinois, United States of America|6 JUL 1998|Sterling, Whiteside, Illinois, USA|
+g1/p10.htm#i250|Edwards|Florence R /Edwards/|1 JUN 1935|Oak Hill, Peoria County, Illinois, United States of America|24 OCT 1998|Peoria, Peoria, Illinois, USA|
+g1/p11.htm#i251|Edwards|Francis "Frank" M /Edwards/|16 APR 1927|Oak Hill, Peoria County, Illinois, United States of America|25 SEP 1953|Rosefield, Peoria, Illinois, USA|
+g1/p11.htm#i252|Edwards|Bonnie Isabelle Gilles /Edwards/|6 AUG 1924|Oak Hill, Peoria County, Illinois, USA|6 SEP 2023|Peoria, Peoria, Illinois, USA|
+g1/p11.htm#i253|Edwards|Margaret Ann Francis /Edwards/|16 NOV 1922|Rosefield, Peoria, Illinois, USA|27 JAN 2010|Knoxville, Knox, Tennessee, USA|
+g1/p11.htm#i254|Liabel|Mary Heinz Boschulte /Liabel/|8 APR 1852|Lancaster County, Pennsylvania, USA|19 SEP 1932|Champaign, Champaign, Illinois, USA|
+g1/p11.htm#i255|Doran|William Malone /Doran/|9 AUG 1861|Graves County, Kentucky, USA|30 DEC 1937|Hazel, Calloway, Kentucky, USA|
+g1/p11.htm#i256|Lynn|Elizabeth Lovier /Lynn/|1822|Kentucky, USA|ABT 1880|Kentucky, USA|
+g1/p11.htm#i257|Doran|Nelly M. /Doran/|16 NOV 1879|Calloway County, Kentucky, USA|19 FEB 1975|Paris, Henry County, Tennessee, USA|
+g1/p11.htm#i259|Ligon|Hugh W. /Ligon/|29 NOV 1895|Illinois, USA|17 JUN 1969|St Louis, Missouri, USA|
+g1/p11.htm#i260|Leahy|John "Jack" /Leahy/|1927||28 JUL 2003|St Louis, Missouri, USA|
+g1/p11.htm#i261|Heman|Norbert M /Heman/|9 SEP 1910|Missouri, USA|28 SEP 1988|Chesterfield, St Louis, Missouri, USA|
+g1/p11.htm#i262|Mayes|Floyd W /Mayes/|ABT 1920||ABT 1995||
+g1/p11.htm#i263|Froussard|Virgil A. /Froussard/|14 NOV 1915|St Louis, Missouri, USA|8 MAY 1999||
+g1/p11.htm#i264|Lovier|Kathleen N Burgess /Lovier/|9 DEC 1900|Kentucky, USA|20 NOV 1987|Rosiclare, Hardin, Illinois, USA|
+g1/p11.htm#i265|Heinz|Annie E Liabel /Heinz/|12 JAN 1855|Lancaster County, Pennsylvania, USA|1948|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p11.htm#i266|Heinz|Bernard John Benny /Heinz/|25 MAY 1881|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|16 JAN 1974|Woodford, Illinois, USA|
+g1/p11.htm#i269|Whaley|William Kenneth /Whaley/|12 SEP 1926|Lewistown, Fulton County, Illinois, USA|1 JAN 2013|Peoria, Peoria County, Illinois, USA|
+g1/p11.htm#i270|Gibson|Shirley M Whaley /Gibson/|18 JUL 1932|Pekin, Tazewell County, Illinois, USA|18 SEP 2001|Chillicothe, Peoria County, Illinois, USA|
+g1/p12.htm#i276|Lovier|Larry /Lovier/|11 JUN 1948|Detroit, Wayne, Michigan, USA|20 OCT 1990|Detroit, Wayne, Michigan, USA|
+g1/p12.htm#i281|Dowling|Lawrence J /Dowling/|1 MAY 1943|Cleveland, Cuyahoga County, Ohio, USA|6 AUG 2016|Wisconsin, USA|
+g1/p12.htm#i282|Mlaker|Mary Beth /Mlaker/|12 SEP 1947|La Salle, Illinois, USA|26 JAN 2022|Peoria, Peoria, Illinois, USA|
+g1/p12.htm#i284|Key|Dock Garland Winchester /Key/|12 NOV 1859|Henry County, Tennessee, USA|12 NOV 1923|Henry County, Tennessee, USA|
+g1/p12.htm#i285|German|Margaret /German/|21 SEP 1858|Princeville, Peoria, Illinois, USA|16 JUL 1950|Princeville, Stark, Illinois, USA|
+g1/p12.htm#i286|German|John /German/|6 SEP 1856|Princeville, Peoria, Illinois, USA|12 JUL 1878|Princeville, Peoria, Illinois, USA|
+g1/p12.htm#i287|Henlein|Andreas /Henlein/|1782|Germany|17 FEB 1829|Breitenheim, Bad Kreuznach, Rhineland-Palatinate, Germany|
+g1/p12.htm#i288|Klein|Catharina Henlein /Klein/|1788|Merheim, Köln, Rhineland, Prussia, German Empire|||
+g1/p12.htm#i289|Sheckler|Alice Mae Heinz /Sheckler/|20 JUL 1924|Peoria, Peoria County, Illinois, USA|4 AUG 2004|Reseda, Los Angeles, California, USA|
+g1/p12.htm#i292|Heinz|Annie Margaret Hoffman Berckler /Heinz/|1 MAY 1810|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|11 MAR 1895|Macon County, Illinois, USA|
+g1/p12.htm#i293|Heinz|Frederick S /Heinz/|19 MAY 1828|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|22 JUL 1922|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p12.htm#i294|Heinz|Henry /Heinz/|18 JUL 1820|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1847|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p12.htm#i295|Lovier|Dorothy Jean /Lovier/|7 AUG 1919|Augusta, Woodruff, Arkansas, USA|24 AUG 2004|Delaware, Delaware, Ohio, USA|
+g1/p12.htm#i296|Heinz|Norvin Carl /Heinz/|9 JUN 1927|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|26 JUL 2020|Edwards, Peoria, Illinois, USA|
+g1/p12.htm#i297|Heinz|Mary Blanche Edwards /Heinz/|5 MAR 1929|Oak Hill, Peoria County, Illinois, United States of America|13 AUG 1993|Edwards, Peoria, Illinois, USA|
+g1/p13.htm#i302|Gilles|Rosella Veronica Heinz /Gilles/|31 DEC 1896|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|29 JAN 1992|Bellevue, Peoria County, Illinois, USA|
+g1/p13.htm#i303|Heinz|Alexander Philip /Heinz/|23 FEB 1895|Kickapoo, Peoria, Illinois, USA|18 OCT 1971|Edwards, Peoria, Illinois, USA|
+g1/p13.htm#i304|Edwards|George F /Edwards/|23 JAN 1882|Rosefield, Peoria, Illinois, USA|28 DEC 1954|Oak Hill, Rosefield, Peoria, Illinois, USA|
+g1/p13.htm#i305|Dale|Anna Ella Hedden /Dale/|1861|Hardin, Illinois, USA|1951|Metropolis, Massac, Illinois, USA|
+g1/p13.htm#i306|Shaw|Nora Brookmeyer /Shaw/|ABT 1871|Illinois, USA|ABT 1949|Cave-In-Rock, Hardin, Illinois, USA|
+g1/p13.htm#i307|German|Basilius /German/|14 JUN 1826|Achern, Ortenaukreis, Baden-Württemberg, Germany|20 JUN 1904|Princeville, Stark, Illinois, USA|
+g1/p13.htm#i308|German|Gertrude Sager /German/|17 MAR 1828|Achern, Ortenaukreis, Baden-Württemberg, Germany|9 JUL 1910|Princeville, Stark, Illinois, USA|
+g1/p13.htm#i309|German|Christina Amelia /German/|3 MAR 1867|Princeville, Stark, Illinois, USA|16 FEB 1953|Humphrey, Platte, Nebraska, USA|
+g1/p13.htm#i310|German|Maxmillian Phillip /German/|SEP 1871|Kickapoo, Peoria, Illinois, USA|29 APR 1959|Yankton, Yankton, South Dakota, USA|
+g1/p13.htm#i311|German|Stephen Luke /German/|14 DEC 1860|Princeville, Peoria, Illinois, USA|6 NOV 1948|Humphrey, Platte, Nebraska, USA|
+g1/p13.htm#i312|German|Gertrude Eva /German/|21 MAR 1863|Princeville, Stark, Illinois, USA|7 JAN 1940|Humphrey, Platte, Nebraska, USA|
+g1/p13.htm#i313|German|Frank S /German/|12 FEB 1849|Buffalo, Erie, New York, USA|20 JAN 1941|Humphrey, Platte, Nebraska, USA|
+g1/p13.htm#i314|German|Charles James /German/|25 MAY 1854|Princeville, Peoria, Illinois, USA|24 DEC 1888|Princeville, Peoria, Illinois, USA|
+g1/p13.htm#i315|Lovier|James "Red" Colbert /Lovier/|2 AUG 1921|Fulton, Fulton, Kentucky, USA|23 MAY 2005|Peoria, Peoria, Illinois, USA|
+g1/p13.htm#i318|Johnson|Winnie Thelma Lovier Ligon /Johnson/|29 MAY 1901|New Augusta, Woodruff County, Arkansas, United States of America|4 JAN 1971|St Louis, Missouri, USA|
+g1/p13.htm#i319|Lovier|James "Red" Coy /Lovier/|13 AUG 1898|Sedalia, Graves, Kentucky, USA|15 DEC 1945|Elizabethtown, Hardin, Illinois, USA|
+g1/p13.htm#i320|Estes|Mamie Dale /Estes/|18 JUL 1901|Hardin County, Illinois, USA|20 JUN 1989|Peoria, Peoria, Illinois, USA|
+g1/p13.htm#i321|Dale|Willie /Dale/|11 FEB 1900|Hardin County, Illinois, USA|11 JUL 1981|Peoria, Peoria, Illinois, USA|
+g1/p13.htm#i322|Lovier|Sue Leahy /Lovier/|4 DEC 1927|Tennessee, USA|28 JAN 1984|Fairview Heights, St Clair, Illinois, USA|
+g1/p13.htm#i323|Lovier|Jane Miller Froussard /Lovier/|30 MAR 1925|Tennessee, USA|27 AUG 2012|Webster Groves, St Louis, Missouri, USA|
+g1/p13.htm#i324|Lovier|June /Lovier/|13 JUN 1923|Clarksville, Montgomery, Tennessee, USA|19 SEP 2007|St Louis, Missouri, USA|
+g1/p13.htm#i325|Heinz|Johannes Henrici (John Henry I) "Henry" /Heinz/|2 MAR 1782|Bingen, Mainz-Bingen, Rhineland-Palatinate, Germany|5 DEC 1838|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p14.htm#i331|Heinz|Edward Peter /Heinz/|10 MAR 1952|Rosefield, Peoria, Illinois, USA|12 MAY 2017|Peoria, Peoria, Illinois, USA|
+g1/p14.htm#i335|McKown|Duane Lee /McKown/|22 JAN 1927|Brimfield, Peoria County, Illinois, USA|22 NOV 1967|Peoria, Peoria County, Illinois, USA|
+g1/p14.htm#i336|Heinz|Pearl M /Heinz/|1911||2000|Bettendorf, Scott, Iowa, USA|
+g1/p14.htm#i337|Heinz|Wendell /Heinz/|25 JUN 1825|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|ABT 1905|USA|
+g1/p14.htm#i338|Hoffman|Frederick /Hoffman/|22 JUN 1849|Bingen, Mainz-Bingen, Rhineland-Palatinate, Germany|12 JUL 1936|Texas City, De Witt, Illinois, USA|
+g1/p14.htm#i339|Hoffman|Eva Catherine /Hoffman/|1 AUG 1851|Darmstadt, Hesse, Germany|11 MAY 1936|Maroa, Macon County, Illinois, USA|
+g1/p14.htm#i340|Hoffman|Mary Antionette /Hoffman/|21 JUN 1855|Smithland, Livingston, Kentucky, USA|12 AUG 1947|Clinton, De Witt, Illinois, USA|
+g1/p14.htm#i341|Brutcher|Anna Margaret /Brutcher/|2 DEC 1859|Peoria County, Illinois, USA|27 DEC 1945|Peoria County, Illinois, USA|
+g1/p14.htm#i342|Heinz|Anna "Annie" /Heinz/|28 FEB 1860|Kickapoo, Peoria, Illinois, USA|19 MAR 1962|Peoria, Peoria, Illinois, USA|
+g1/p14.htm#i343|Heinz|George F. /Heinz/|15 JUN 1862|Kickapoo, Peoria, Illinois, USA|31 JAN 1939|Kickapoo, Peoria, Illinois, USA|
+g1/p14.htm#i344|AmRhein|Theresa Heinz /AmRhein/|12 SEP 1869|Kickapoo (Oak Hill), Peoria County, Illinois, USA|9 JAN 1968|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p14.htm#i345|Lasater|Helen /Lasater/|21 JUN 1926|Hardin County, Illinois, USA|7 JAN 1997|Hardin County, Illinois, USA|
+g1/p14.htm#i346|Rose|Robert Rank /Rose/|11 OCT 1904|Hardin County, Illinois, USA|11 JAN 1951|Hardin County, Illinois, USA|
+g1/p14.htm#i347|Dale|Sudie Tucker /Dale/|9 SEP 1885|Illinois, USA|4 JUL 1978|Hardin County, Illinois, USA|
+g1/p14.htm#i348|Schmitt|Martha /Schmitt/|1753||1797|Dietersheim bei Bingen am Rhein, Bingen, Hesse Darmstadt, Hessen, Allemagne|
+g1/p14.htm#i349|Schneider|Katherine Margaretha /Schneider/|1825|Germany|||
+g1/p14.htm#i350|Berckler|Wilhelm "William" /Berckler/|10 MAR 1810|Darmstadt, Hesse, Germany|FEB 1838|Darmstadt, Hesse, Germany|
+g1/p15.htm#i351|Schmitt|Anna Barbara Gilles /Schmitt/|27 MAR 1821|Darmstadt, Darmstadt, Hesse, Germany|29 SEP 1853|Peoria County, Illinois, USA|
+g1/p15.htm#i352|Stenger|Elizabeth /Stenger/|14 NOV 1872|Kickapoo, Peoria, Illinois, USA|23 JUN 1923|Okarche, Canadian, Oklahoma, USA|
+g1/p15.htm#i353|Cramer|George J. /Cramer/, Sr.|5 JAN 1872|Illinois, USA|8 NOV 1936|Kickapoo, Peoria, Illinois, USA|
+g1/p15.htm#i354|Cramer|George Peter /Cramer/|2 NOV 1902|Kickapoo, Peoria, Illinois, USA|23 JAN 1979|Edwards, Peoria, Illinois, USA|
+g1/p15.htm#i355|Bartholomew|Marilyn Heinz /Bartholomew/|21 FEB 1935|Illinois, USA|||
+g1/p15.htm#i356|Waters|Grace P Heinz /Waters/|7 FEB 1895|Oklahoma, USA|ABT 1968||
+g1/p15.htm#i357|Brutcher|John P /Brutcher/|9 JUL 1856|Illinois, USA|4 MAR 1945|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p15.htm#i358|Watson|Ollie Lucien /Watson/|14 MAY 1897|Lola, Livingston County, Kentucky, USA|27 JAN 1980|West Frankfort, Franklin County, Illinois, USA|
+g1/p15.htm#i359|Bliss|Effie Estes /Bliss/|JAN 1900|Illinois, USA|12 APR 1969|Hardin County, Illinois, USA|
+g1/p15.htm#i360|Cochran|Otto Ralph /Cochran/|2 JUN 1888|Illinois, USA|28 DEC 1926|Rosiclare, Hardin, Illinois, USA|
+g1/p15.htm#i361|Lazell|Elbridge Sherman /Lazell/|4 FEB 1843|Peoria, Illinois, USA|1906||
+g1/p15.htm#i362|Hoffman|Nicholas /Hoffman/, Jr|2 FEB 1845|Darmstadt, Hesse, Germany|10 JUL 1922|Pottstown, Peoria County, Illinois, United States of America|
+g1/p15.htm#i363|Hoffman|John /Hoffman/|7 JAN 1843|Darmstadt, Hesse, Germany|4 OCT 1940|Long Beach, Los Angeles, California, USA|
+g1/p15.htm#i364|Hoffman|Peter /Hoffman/|26 JUL 1847|Darmstadt, Darmstadt, Hesse, Germany|1 FEB 1916|Oak, Nuckolls, Nebraska, USA|
+g1/p15.htm#i365|Heinz|Frederick "Fritz" /Heinz/|18 JUN 1851|Kickapoo, Peoria, Illinois, USA|3 MAY 1927|Kickapoo, Peoria, Illinois, USA|
+g1/p15.htm#i366|Heinz|Henry J /Heinz/|9 AUG 1852|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|25 FEB 1929|St. Mary's Cem., Kickapoo, IL, USA|
+g1/p15.htm#i367|Heinz|Katie German /Heinz/|3 MAY 1855|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|14 FEB 1920|Princeville, Peoria, Illinois, USA|
+g1/p15.htm#i368|Heinz|Andrew /Heinz/|4 JAN 1857|Kickapoo, Peoria, Illinois, USA|19 JUN 1909|Kickapoo, Peoria, Illinois, USA|
+g1/p15.htm#i369|Ross|Anna Mary Heinz /Ross/|10 APR 1848|New York, USA|17 APR 1945|Kickapoo, Peoria, Illinois, USA|
+g1/p15.htm#i370|Rinehart|Theresa Heinz /Rinehart/|14 MAR 1856|Maroa, Macon, Illinois, USA|4 SEP 1884|Peoria County, Illinois, USA|
+g1/p15.htm#i371|Becker|Elizabeth Mary /Becker/|6 JAN 1863|Nieder Ohmen, Vogelsbergkreis, Hesse, Germany|10 MAY 1940|Peoria, Peoria County, Illinois, USA|
+g1/p15.htm#i372|German|Joseph /German/|4 APR 1852|Buffalo, Erie, New York, USA|3 JAN 1947|Peoria, Peoria County, Illinois, USA|
+g1/p15.htm#i373|Heinz|Margaret Christian /Heinz/|15 OCT 1859|Kickapoo, Peoria, Illinois, USA|8 MAR 1923|Kickapoo, Peoria, Illinois, USA|
+g1/p15.htm#i374|Becker|Mary A Heinz /Becker/|13 FEB 1867|Nieder Ohmen, Vogelsbergkreis, Hesse, Germany|16 FEB 1938|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p15.htm#i375|AmRhein|Joseph B /AmRhein/|8 AUG 1856|St Leon, Dearborn County, Indiana, USA|27 AUG 1927|Peoria, Peoria County, Illinois, USA|
+g1/p16.htm#i376|Litterell|Martha Melissa /Litterell/|1848|Illinois, USA|BEF 1940|Illinois, USA|
+g1/p16.htm#i377|Hedden|Isaac Munson /Hedden/|15 DEC 1858|Hopkins, Kentucky, USA|30 MAR 1947|Metropolis, Massac, Illinois, USA|
+g1/p16.htm#i378|Brookmyer|Frederick /Brookmyer/|15 APR 1870|Cave in Rock, Hardin, Illinois, USA|27 NOV 1934|Cave in Rock, Hardin, Illinois, USA|
+g1/p16.htm#i379|Heinz|Julius Adam /Heinz/|29 SEP 1880|Kickapoo, Peoria, Illinois, USA|28 SEP 1927|Pesotum, Champaign, Illinois, USA|
+g1/p16.htm#i380|Heinz|Emil Valentine /Heinz/|22 JUN 1884|Kickapoo Township, Peoria, Illinois, USA|29 DEC 1962|Peoria County, Illinois, USA|
+g1/p16.htm#i381|Heinz|Elizabeth Katherine Bieneman /Heinz/|8 APR 1874|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|3 MAR 1958|Kickapoo (Oak Hill), Peoria County, Illinois, USA|
+g1/p16.htm#i382|Bienemann|Franz (Frank) Matthew /Bienemann/|4 SEP 1873|West Peoria, Peoria County, Illinois, USA|23 JUL 1945|Champaign, Champaign County, Illinois, USA|
+g1/p16.htm#i383|Miller|Mary Magdalene "Lena" /Miller/|10 APR 1886|Peoria, Illinois, USA|21 JAN 1941|Peoria, Peoria, Illinois, USA|
+g1/p16.htm#i384|Kerwin|Kathryn Mae Heinz /Kerwin/|ABT 1892|Illinois, USA|BEF 1992||
+g1/p16.htm#i387|Francis|James /Francis/|16 MAR 1927|Tennessee, USA|3 JUL 1978|Knoxville, Knox, Tennessee, USA|
+g1/p16.htm#i388|Heinz|Florence Fredericka /Heinz/|6 FEB 1919|Peoria County, Illinois, USA|8 MAY 1931|Peoria County, Illinois, USA|
+g1/p16.htm#i389|Henderson|Joseph Ray /Henderson/|1895||BEF 1995||
+g1/p16.htm#i390|Stanford|Julius Jerome /Stanford/|4 SEP 1908|Lawrence, Cloud, Kansas, USA|8 DEC 2005|Monterey Peninsula, Monterey, California, USA|
+g1/p16.htm#i391|Miller|Donald /Miller/|9 NOV 1921|Hardin County, Illinois, USA|22 OCT 1944|England|
+g1/p16.htm#i392|Hambrink|Lucy Ann /Hambrink/|14 JAN 1864|Illinois, USA|15 MAR 1940|Road Dist 1, Hardin, Illinois|
+g1/p16.htm#i393|Lynn|Elias Jefferson /Lynn/|1836|Union County, Kentucky, USA|24 AUG 1896|Lamb, Hardin County, Illinois, USA|
+g1/p16.htm#i394|Brown|Sarah Dorcus /Brown/|1845|Boone County, Kentucky, USA|14 JAN 1895|Hardin County, Illinois, USA|
+g1/p16.htm#i395|Byrne|Mary Josephine /Byrne/|15 AUG 1893|Ballyhaunis, Mayo, Ireland|22 NOV 1976|Peoria, Peoria, Illinois, USA|
+g1/p16.htm#i396|German|Fredricka K. "Ricky" /German/|8 JUL 1850|Buffalo, Erie County, New York, USA|25 JUL 1929|Kickapoo, Peoria, Illinois, USA|
+g1/p16.htm#i397|Heinz|George /Heinz/|10 MAR 1845|Kickapoo, Peoria, Illinois, USA|22 JAN 1926|Kickapoo, Peoria, Illinois, USA|
+g1/p16.htm#i398|Heinz|Wilma M /Heinz/|ABT 1923|Illinois, USA|11 JUN 2008|Redding, Shasta, California, USA|
+g1/p16.htm#i399|Heinz|Gilbert Marion /Heinz/|17 MAY 1924|Kickapoo, Peoria Co, Illinois, USA|12 JUN 2005|Rushville, Schuyler, Illinois, USA|
+g1/p16.htm#i400|Heinz|Floyd Charles /Heinz/|6 AUG 1920|Kickapoo, Peoria, Illinois, USA|21 FEB 2008|Reseda, Los Angeles, California, USA|
+g1/p17.htm#i401|Heinz|Isabelle A Shockey /Heinz/|27 JAN 1931|Kickapoo, Peoria, Illinois, USA|||
+g1/p17.htm#i402|Heinz|Kermit Albert /Heinz/|17 JAN 1926|West Peoria, Peoria County, Illinois, USA|12 JUL 2017|Creve Coeur, Tazewell County, Illinois, USA|
+g1/p17.htm#i403|Heinz|Maurice Peter /Heinz/|9 AUG 1932|Kickapoo Township, Peoria, Illinois, USA|14 JUN 1999|Peoria, Peoria, Illinois, USA|
+g1/p17.htm#i404|Heinz|Ida Mae Boyer /Heinz/|23 APR 1929|Kickapoo Township, Peoria, Illinois|3 OCT 2001|Stanton, Orange, California, USA|
+g1/p17.htm#i405|Schmitt|Julia M Gilles /Schmitt/|9 DEC 1864|Jubilee Township, Peoria Co, Illinois, USA|31 MAR 1936|Kickapoo, Peoria, Illinois, USA|
+g1/p17.htm#i406|Gilles|Charles /Gilles/|13 AUG 1860|West Peoria, Peoria County, Illinois, USA|27 APR 1928|West Peoria, Peoria County, Illinois, USA|
+g1/p17.htm#i407|Heinz|Katharina Henlein /Heinz/|4 JUN 1813|Bretzenheim, Bad Kreuznach, Rhineland-Palatinate, Germany|29 OCT 1895|Kickapoo, Peoria, Illinois, USA|
+g1/p17.htm#i408|Heinz|George /Heinz/|30 MAR 1813|Dietersheim Bei Bingen Am Rhein, Darmstadt, Hesse, Germany|29 MAR 1891|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p17.htm#i409|Barfoot|Rose Christina Heinz /Barfoot/|6 DEC 1888|Kickapoo, Peoria, Illinois, USA|16 MAR 1956|Peoria, Peoria, Illinois, USA|
+g1/p17.htm#i410|Heinz|Nicholas George /Heinz/|29 MAY 1884|Kickapoo, Peoria, Illinois, USA|14 AUG 1953|Kickapoo, Peoria, Illinois, USA|
+g1/p17.htm#i411|Heinz|Charles "Charley"  Peter /Heinz/|28 FEB 1879|Kickapoo, Peoria, Illinois, USA|5 AUG 1963|Peoria, Peoria, Illinois, USA|
+g1/p17.htm#i412|Heinz|Maxmillian Joseph /Heinz/|15 JAN 1872|Kickapoo, Peoria, Illinois, USA|22 FEB 1957|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p17.htm#i413|Heinz|Geo Jr Baby Bertha /Heinz/|AUG 1891||AUG 1891|Kickapoo, Peoria, Illinois, USA|
+g1/p17.htm#i414|Heinz|Margaret Barbara "Maggie" /Heinz/|13 JAN 1875|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|14 JUN 1965|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p17.htm#i415|Shockey|David C. /Shockey/|22 APR 1952|Peoria, Peoria County, Illinois, USA|31 OCT 2010|Peoria, Peoria County, Illinois, USA|
+g1/p17.htm#i416|Lovier|Hugh /Lovier/|ABT 1785|Maryland, USA|1885|Christian, Kentucky, USA|
+g1/p17.htm#i417|Weddle|Mary Lovier /Weddle/|9 FEB 1789|Baltimore, Maryland, USA|23 MAR 1859|Indiana, USA|
+g1/p17.htm#i419|Lovier|Richard M /Lovier/|12 JUL 1812|Maryland, USA|10 AUG 1855|Hopkinsville, Christian, Kentucky, USA|
+g1/p17.htm#i420|Lovier|Rebecca Ann Barringer /Lovier/|3 AUG 1817|Maryland, USA|2 FEB 1900|Nodaway County, Missouri, USA|
+g1/p17.htm#i421|Lovier|Isaac M /Lovier/|1826|Maryland, USA|BEF 1880|Uknown|
+g1/p17.htm#i422|Lovier|Jackson /Lovier/|1852|Henry, Tennessee, USA|1853|Kentucky, USA|
+g1/p17.htm#i424|Locker|Elizabeth Shipp /Locker/|4 JAN 1821|Kentucky, USA|20 FEB 1883|Hopkinsville, Christian County, Kentucky, USA|
+g1/p17.htm#i425|Heinz|Felix Joseph /Heinz/|3 MAY 1886|Kickapoo, Peoria, Illinois, USA|21 APR 1984|Peoria, Peoria, Illinois, USA|
+g1/p18.htm#i426|Heinz|Gertrude "Gertie" Catherine /Heinz/|22 OCT 1870|Kickapoo, Peoria, Illinois, USA|20 NOV 1953|Peoria County, Illinois, USA|
+g1/p18.htm#i427|Best|Peter /Best/|9 JAN 1834|Chambersburg, Franklin County, Pennsylvania, USA|4 NOV 1915|Peoria, Peoria County, Illinois, USA|
+g1/p18.htm#i428|Eisenhour|Mary A Best /Eisenhour/|16 JUN 1840|Baden, Baden-Baden, Baden-Württemberg, Germany|15 JUN 1901|Peoria, Peoria County, Illinois, USA|
+g1/p18.htm#i429|Best|Adam Jacob /Best/|27 SEP 1857|Peoria County, Illinois, USA|20 MAR 1903|Princeville, Peoria County, Illinois, USA|
+g1/p18.htm#i430|Best|Jacob F /Best/|17 JUL 1861|Peoria County, Illinois, USA|20 OCT 1894|Peoria County, Illinois, USA|
+g1/p18.htm#i431|Best|Matilda /Best/|2 JUL 1867|Edwards, Peoria County, Illinois, USA|11 JAN 1890|Peoria County, Illinois, USA|
+g1/p18.htm#i432|Best|Mary "Minnie" /Best/|20 AUG 1874|Peoria County, Illinois, USA|2 FEB 1944|Peoria, Peoria County, Illinois, USA|
+g1/p18.htm#i434|Shockey|Tony Pat /Shockey/|3 JUN 1956||7 MAR 1989||
+g1/p18.htm#i438|Lovier|Billy Dale "Dugan" /Lovier/|14 JUL 1947|Mount Vernon, Jefferson County, Illinois, USA|13 OCT 1999|West Columbia, Lexington County, South Carolina, USA|
+g1/p18.htm#i442|Lovier|Meow Lin /Lovier/|18 MAY 1943|Taiwan|4 APR 2016|Peoria, Peoria, Illinois, USA|
+g1/p18.htm#i445|Heinz|Luke George /Heinz/|14 APR 1978|Peoria, Illinois, USA|4 MAY 1997|Hartland, Waukesha, Wisconsin, USA|
+g1/p18.htm#i446|Lovier|Gooseberry H /Lovier/|1817|North Carolina, USA|12 APR 1876|Calloway County, Kentucky, USA|
+g1/p18.htm#i447|Schmitt|Barbara /Schmitt/|17 NOV 1847|Illinois, USA|8 MAR 1923|Peoria County, Illinois, USA|
+g1/p18.htm#i448|Schmitt|Lorenz /Schmitt/, Sr|20 SEP 1840|Darmstadt, Hesse, Germany|26 DEC 1915|Peoria County, Illinois, USA|
+g1/p18.htm#i449|Schmitt|Joseph V /Schmitt/|ABT 1879|Kickapoo, Peoria, Illinois, USA|22 MAR 1963||
+g1/p18.htm#i450|Schmitt|Peter H /Schmitt/|1876|Kickapoo, Peoria, Illinois, USA|1960||
+g1/p19.htm#i451|Schmitt|Catharine /Schmitt/|4 APR 1874|Kickapoo, Peoria, Illinois, USA|13 SEP 1897||
+g1/p19.htm#i452|Schmitt|George /Schmitt/|1872|Kickapoo, Peoria, Illinois, USA|1909|Pottstown, Peoria County, USAlinois, Illinois, USA|
+g1/p19.htm#i453|Schmitt|Frank /Schmitt/|15 FEB 1868|Peoria County, Illinois, USA|29 NOV 1942|Peoria, Peoria County, Illinois, USA|
+g1/p19.htm#i454|Schmitt|Jacob F /Schmitt/|ABT 1866|Kickapoo, Peoria, Illinois, USA|21 MAY 1917|West Peoria, Peoria County, Illinois, USA|
+g1/p19.htm#i457|Lovier|James K /Lovier/|9 FEB 1849|Kentucky, USA|21 APR 1899|Calloway County, Kentucky, USA|
+g1/p19.htm#i458|Lovier|Henry A /Lovier/|10 DEC 1853|Henry, Tennessee, USA|7 NOV 1934|Clark County, Arkansas, USA|
+g1/p19.htm#i459|Lovier|Jane Carroll Doran /Lovier/|29 SEP 1856|Calloway County, Kentucky, USA|3 SEP 1921||
+g1/p19.htm#i460|Lovier|Abi Emaline /Lovier/|23 OCT 1862|Lynn Grove, Calloway, Kentucky, United States|9 OCT 1938|Puryear, Henry, Tennessee, USA|
+g1/p19.htm#i461|Lovier|John W B /Lovier/|14 JUN 1868|Lynn Grove, Kentucky, United States|7 JUL 1934|Pines RD, Paducah, Mccrackin, Kentucky, USA|
+g1/p19.htm#i462|Nanny|Alcey Lovier /Nanny/|28 JUN 1849|Calloway County, Kentucky, USA|15 OCT 1929|Calloway County, Kentucky, USA|
+g1/p19.htm#i463|Lovier|Zora Bell /Lovier/|1871|Calloway County, Kentucky, USA|1939|Henry, Henry, Tennessee, USA|
+g1/p19.htm#i464|Lovier|Eliza Annie West /Lovier/|15 NOV 1872|Calloway County, Kentucky, USA|17 NOV 1954|1608 Hamilton Ave, Murray, Calloway, Kentucky, USA|
+g1/p19.htm#i467|Knecht|Peter Joseph /Knecht/|20 FEB 1867|Eagle Township, La Salle, Illinois, USA|23 JUL 1931|Dunlap, Peoria County, Illinois, USA|
+g1/p19.htm#i468|Powers|Julia Ellen /Powers/|30 JAN 1885|Radnor, Peoria, Illinois, USA|JAN 1950|Peoria County, Illinois, USA|
+g1/p19.htm#i469|Dale|Christopher Columbus /Dale/|10 SEP 1863|Cave in Rock, Hardin County, Illinois, USA|6 JUN 1935|Road Dist #3, Rosiclare, Hardin, Illinois, USA|
+g1/p19.htm#i470|Dale|Hannah N Lynn /Dale/|6 NOV 1879|Illinois, USA|25 MAR 1953|Hardin County, Illinois, USA|
+g1/p19.htm#i471|Dale|James R /Dale/|1820|Kentucky, USA|ABT 1910|Hardin County, Illinois, USA|
+g1/p19.htm#i472|Dale|Sarah Jane Angleton /Dale/|NOV 1825|Boone, Kentucky, USA|18 APR 1905|Hardin County, Illinois, USA|
+g1/p19.htm#i473|Dale|Mary Jane /Dale/|27 SEP 1853|Kentucky, USA|AFT 1900|Hardin, Illinois, USA|
+g1/p19.htm#i474|Dale|Joseph L /Dale/|DEC 1859|Illinois, USA|29 DEC 1884|Rock Creek, Hardin, Illinois, USA|
+g1/p19.htm#i475|Lovier|Mansuel Monroe /Lovier/|17 JUN 1878|Henry, Henry, Tennessee, USA|14 MAY 1951|Calloway County, Kentucky, USA|
+g1/p20.htm#i476|Heinz|Richard John /Heinz/|25 OCT 1883|Kickapoo, Peoria County, Illinois, USA|27 AUG 1956|Peoria, Peoria County, Illinois, USA|
+g1/p20.htm#i477|Heinz|David Sylvester /Heinz/|11 NOV 1885|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|5 AUG 1947|Limestone Twp, Peoria, Illinois, USA|
+g1/p20.htm#i478|Heinz|Leo Fritz /Heinz/|15 MAY 1889|Kickapoo, Peoria, Illinois, USA|19 MAR 1958|Dunlap, Peoria, Illinois, USA|
+g1/p20.htm#i479|Heinz|Joseph George /Heinz/|19 MAY 1876|Kickapoo, Peoria, Illinois, USA|15 FEB 1935|Peoria, Peoria, Illinois, USA|
+g1/p20.htm#i480|Heinz|Carl F /Heinz/|11 OCT 1877|Kickapoo, Peoria, Illinois, USA|11 OCT 1877|Kickapoo, Peoria, Illinois, USA|
+g1/p20.htm#i481|Lovier|Boyd /Lovier/|ABT 1895|Kentucky, USA|5 APR 1915|Fulton, Fulton, Kentucky, USA|
+g1/p20.htm#i482|Smith|Lena L. Lovier Perkins /Smith/|19 APR 1875|Graves, Kentucky, USA|6 FEB 1945|McCracken County, Kentucky, USA|
+g1/p20.htm#i483|Lovier|Mary Elizabeth /Lovier/|26 SEP 1840|Henry County, Tennessee, USA|26 JAN 1881|Calloway County, Kentucky, USA|
+g1/p20.htm#i485|Dale|Ruth Rebecca /Dale/|12 AUG 1906|Pope County, Illinois, USA|9 OCT 1985|Eldorado, Saline County, Illinois, USA|
+g1/p20.htm#i486|Rose|Thomas /Rose/|1844|Illinois, USA|1885|Pope, Illinois, USA|
+g1/p20.htm#i487|Cullum|Susan Elizabeth /Cullum/|ABT 1847|Illinois, USA|BEF 1950|Illinois, USA|
+g1/p20.htm#i488|Patterson|Webb /Patterson/|3 MAY 1903|Illinois, USA|29 MAR 1964|Elizabethtown, Hardin, Illinois, USA|
+g1/p20.htm#i489|Wood|Thomas Ashley /Wood/|14 JUN 1855|Paris, Henry, Tennessee, USA|1 1935|Lilbourn, New Madrid, Missouri, USA|
+g1/p20.htm#i490|Deck|Plinia /Deck/|ABT 1858|Pillowville, Weakly county, Tennessee, USA|4 NOV 1936|Scott, Missouri, USA|
+g1/p20.htm#i491|Bruce|Charles Van Buren /Bruce/|4 SEP 1890|Kennett, Dunklin, Missouri, USA|JUL 1982|Danville, Yell, Arkansas, USA|
+g1/p20.htm#i492|Bruce|Charles Thomas /Bruce/|4 SEP 1931|Dallas, Dallas, Texas, USA|3 APR 1994||
+g1/p20.htm#i493|Messler|Dorothy Marie /Messler/|27 DEC 1941|Oklahoma, USA|BEF 2023|Las Vegas, Clark, Nevada, USA|
+g1/p20.htm#i494|Barringer|Daniel L /Barringer/|6 APR 1810|Ölbronn, Enzkreis, Baden-Württemberg, Germany|13 JUN 1892|Nodaway County, Missouri, USA|
+g1/p20.htm#i495|Higgins|Sarah B. /Higgins/|1833|Kentucky, USA|1858|Marshall County, Kentucky, USA|
+g1/p20.htm#i496|Hargrove|Delila /Hargrove/|1836|Marshall County, Kentucky, USA|BEF 1860||
+g1/p20.htm#i497|Jackson|Amelia /Jackson/|31 JUL 1836|Indiana, USA|2 FEB 1927|St Louis, Missouri, USA|
+g1/p20.htm#i498|Lovier|Lucinda /Lovier/|1839|Tennessee, USA|1881|Kentucky, USA|
+g1/p20.htm#i499|Lovier|Sarah Ann /Lovier/|25 DEC 1813|Boonsboro, Washington, Maryland, USA|13 JUL 1878|Freeport, Stephenson, Illinois, USA|
+g1/p20.htm#i500|Figeley|Johannes /Figeley/, Jr|6 JAN 1814|Hagerstown, Washington County, Maryland, USA|12 APR 1890|Leaf River Township, Ogle County, Illinois, USA|
+g1/p21.htm#i501|Lovier|John L /Lovier/|BEF 1900|Maryland, USA|12 OCT 1854|Kentucky, USA|
+g1/p21.htm#i502|Lovier|Elizabeth R /Lovier/|BEF 1900|Maryland, USA|1857|Kentucky, USA|
+g1/p21.htm#i504|Schmitt|Barbara /Schmitt/|1887|Illinois, USA|BEF 1987|Illinois, USA|
+g1/p21.htm#i505|Schmitt|Frederick "Fritz"  George /Schmitt/|14 AUG 1882|Illinois, Illinois, USA|SEP 1966||
+g1/p21.htm#i506|Schmitt|Lawrence  J /Schmitt/|AUG 1884|Kickapoo Township, Peoria County, Illinois, USA|5 JAN 1976|Peoria, Peoria County, Illinois, USA|
+g1/p21.htm#i507|Schmitt|Anna M /Schmitt/|1870|Kickapoo, Peoria, Illinois, USA|BEF 1970|Peoria County, Illinois, USA|
+g1/p21.htm#i508|Gilles|Adam /Gilles/|11 OCT 1850|Darmstadt, Hesse, Germany|9 APR 1918|Peoria County, Illinois, USA|
+g1/p21.htm#i509|Gilles|George /Gilles/|1853|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|21 MAR 1933|Pesotum, Champaign County, Illinois, USA|
+g1/p21.htm#i510|Earp|Effie M Cramer /Earp/|1 MAR 1907|Monmouth, Warren County, Illinois, USA|14 DEC 2004|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p21.htm#i511|Cramer|George P /Cramer/|17 NOV 1938|Peoria, Peoria County, Illinois, USA|9 MAR 2009|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|
+g1/p21.htm#i512|Cramer|Patricia Ann /Cramer/|27 JUN 1940|Kickapoo (Oak Hill), Peoria County, Illinois, United States of America|10 AUG 2008|Oakville, St Louis, Missouri, USA|
+g1/p21.htm#i513|Reinhart|Mary Catherine Gilles /Reinhart/|27 OCT 1861|Illinois, USA|1 MAR 1935|Pesotum, Champaign County, Illinois, USA|
+g1/p21.htm#i514|Hietter|Veronica Sophronia Gilles /Hietter/|29 MAY 1857|Peoria County, Illinois, USA|16 AUG 1905|Peoria County, Illinois, USA|
+g1/p21.htm#i515|Degen|Peter /Degen/|1855|Germany|25 MAY 1926|Okarche, Canadian, Oklahoma, USA|
+g1/p21.htm#i516|Schmitt|Jakob /Schmitt/|1806|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|20 MAY 1883|Kickapoo, Peoria, Illinois, USA|
+g1/p21.htm#i517|Pfeifer|Maria Juliana /Pfeifer/|1809|Dromersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|31 AUG 1895|Kickapoo, Peoria, Illinois, USA|
+g1/p21.htm#i519|Edwards|Francis /Edwards/|ABT 1852|Rosefield, Peoria, Illinois, USA|23 DEC 1883|Rosefield, Peoria, Illinois, USA|
+g1/p21.htm#i520|Edwards|George W /Edwards/|22 MAR 1810|Shropshire, England|26 SEP 1888|Rosefield, Peoria, Illinois, USA|
+g1/p21.htm#i521|Broshar|Catherine /Broshar/|11 FEB 1811|England|19 SEP 1895|Pottstown, Peoria, Peoria, Illinois, USA|
+g1/p21.htm#i522|Cusack|Margaret /Cusack/|1856|Edwards, Peoria County, Illinois, USA|1916|Waubay, Day County, South Dakota, USA|
+g1/p21.htm#i523|Edwards|John /Edwards/|ABT 1761|Rushbury, Shropshire, England|AFT 1841||
+g1/p21.htm#i524|McDermott|James /McDermott/|18 FEB 1857|Peoria County, Illinois, USA|AFT 1915|Day County, South Dakota, USA|
+g1/p21.htm#i525|Williams|Sarah /Williams/|DEC 1771|Cardington, Shropshire, England|AFT 1841||
+g1/p22.htm#i526|Ireland|Elmer Robt /Ireland/|ABT 1892|Germany|15 APR 1960|Grinnell, Poweshiek, Iowa, USA|
+g1/p22.htm#i527|Stovall|Harry Matthews /Stovall/|3 MAR 1896|McGehee, Desha, Arkansas, USA|5 MAY 1967|Dallas, Dallas, Texas, USA|
+g1/p22.htm#i529|Bruce|Hazel Marry Annette Stovall /Bruce/|11 DEC 1918|Dallas, Dallas, Texas, USA|ABT 1986|Glasgow|
+g1/p22.htm#i530|Carstens|Elsie Savina /Carstens/|1891|Onslow, Jones County, Iowa, USA|ABT 1929|Dallas, Texas, USA|
+g1/p22.htm#i531|Best|William John /Best/|5 JUL 1881|Illinois, USA|19 NOV 1957|San Bernardino County, California, USA|
+g1/p22.htm#i532|Stout|Marion Lorena /Stout/|7 NOV 1879|Illinois, USA|3 MAR 1966|Los Angeles, California, USA|
+g1/p22.htm#i533|Edwards|George /Edwards/|6 APR 1833|Shropshire, England|3 JUL 1916|Philo, Champaign County, Illinois, United States of America|
+g1/p22.htm#i534|Edwards|Susan Catherine /Edwards/|27 MAY 1836|Baltimore, Maryland, USA|3 JAN 1915|Philo, Champaign County, Illinois, United States of America|
+g1/p22.htm#i535|Walter|Friedrich /Walter/|1842|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1842|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i536|Walter|Johann /Walter/|1801||1862|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i537|Walther|Elizabeth /Walther/|5 SEP 1830|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1877|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i538|Walter|Johann /Walter/|13 SEP 1832|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|||
+g1/p22.htm#i539|Walter|Peter /Walter/|1834|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1872||
+g1/p22.htm#i540|Walter|Magdalena /Walter/|9 NOV 1838|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|||
+g1/p22.htm#i541|Heinz|Elisabeth /Heinz/|11 AUG 1818|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|||
+g1/p22.htm#i542|Heinz|Eva Katharina /Heinz/|17 SEP 1807|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1872|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i543|Heinz|Francis Joseph /Heinz/|1 JUN 1831|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1833|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i544|Heinz|John Henry /Heinz/|21 OCT 1815|Bingen am Rhein, Mainz-Bingen, Rhineland-Palatinate, Germany|1871|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i545|Heinz|Nicholas /Heinz/|1 JUN 1805|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|1878|Dietersheim, Mainz-Bingen, Rhineland-Palatinate, Germany|
+g1/p22.htm#i546|Edwards|Elizabeth /Edwards/|SEP 1837|Ruyton-XI-Towns, Shropshire, England|DEC 1837|Ruyton-XI-Towns, Shropshire, England|
+g1/p22.htm#i547|Byrne|John /Byrne/|1888|Ireland|||
+g1/p22.htm#i548|Klein|Henricus /Klein/|||||
+g1/p22.htm#i549|Schmalzgrueber|Anna Cathar. /Schmalzgrueber/|||||
+g1/p22.htm#i550|Hollis|Ann /Hollis/|1805|West Felton, Shropshire, England|1850|Iowa City, Wright, Iowa, USA|
+g1/p23.htm#i551|Edwards|Elizabeth E Bond /Edwards/|18 SEP 1838|Ruyton-XI-Towns, Shropshire, England|8 APR 1928|Urbana, Champaign, Illinois, USA|
+g1/p23.htm#i552|Edwards|James /Edwards/|JAN 1840|Ruyton-XI-Towns, Shropshire, England|||
+g1/p23.htm#i553|Edwards|William /Edwards/|1832|Ruyton of The Eleven Towns, Shropshire, England|||
+g1/p23.htm#i554|Edwards|Sarah McClellan /Edwards/|ABT 1834|Ruyton of The Eleven Towns, Shropshire, England|9 SEP 1909||
+g1/p23.htm#i555|Edwards|Hannah /Edwards/|ABT 1836|Ruyton of The Eleven Towns, Shropshire, England|||
+g1/p23.htm#i556|Edwards|John B /Edwards/|ABT 1837|Ruyton of The Eleven Towns, Shropshire, England|||
+g1/p23.htm#i557|Byrne|Martin /Byrne/|1854|Roscommon, Ireland|1 AUG 1915|Ireland|
+g1/p23.htm#i558|Byrne|Martin /Byrne/|9 APR 1889|Mayo, Ireland|||
+g1/p23.htm#i559|Byrne|Nora /Byrne/|ABT 1894|Ballyhaunis, Mayo, Ireland|BEF 2000|Peoria County, Illinois, USA|
+g1/p23.htm#i560|Lyons|Mary Byrne /Lyons/|17 AUG 1856|Roscommon, Ireland|19 SEP 1943|Leon, Loughanboy, Mayo, Leitrim, Ireland|
+g1/p23.htm#i561|Lyons|Martin /Lyons/|1819|BALLINLOUGH, Roscommon, Ireland|22 AUG 1899|Clydagh, BALLINLOUGH, Roscommon County, Ireland|
+g1/p23.htm#i562|Reilly|Catherine /Reilly/|||||
+g1/p23.htm#i563|Edwards|Owen /Edwards/|1808|Baschurch, Shropshire, England|APR 1890|Ellesmere, Shropshire, England|
+g1/p23.htm#i564|Byrne|Jack /Byrne/|1885|Roscommon, Ireland|||
+g1/p23.htm#i565|Byrne|Delia /Byrne/|1883|Roscommon, Ireland|1933|Ireland|
+g1/p23.htm#i566|Edwards|Lucy /Edwards/|1809|Baschurch, Shropshire, England|ABT JAN 1903|Shropshire, England|
+g1/p23.htm#i567|Heinz|Edward /Heinz/|FEB 1826|Darmstadt, Hesse, Germany|26 NOV 1905|Beardstown, Cass, Illinois, USA|
+g1/p23.htm#i568|Lovier|Gabriel Gilbert /Lovier/|1760|Powhatan, Powhatan, Virginia, USA|25 JUL 1809|Madisonville, Hopkins, Kentucky, USA|
+g1/p23.htm#i569|Kuechler|Ora Irene Davenport /Kuechler/|20 MAY 1889|St Louis, Missouri, USA|30 MAR 1967|St Louis, Missouri, USA|
+g1/p23.htm#i570|Killebrew|Roxie /Killebrew/|5 MAR 1895|Calloway County, Kentucky, USA|14 JUN 1971|Fulton, Fulton, Kentucky, USA|
+g1/p23.htm#i571|Killebrew|Elijah Asa Green /Killebrew/|10 DEC 1859|Calloway County, Kentucky, USA|14 JUN 1936|Graves County, Kentucky, USA|
+g1/p23.htm#i572|Killebrew|Rhoda Mae /Killebrew/|6 JAN 1861|Calloway County, Kentucky, USA|5 APR 1901|Graves County, Kentucky, USA|
+g1/p23.htm#i573|Watts|Robert /Watts/|6 MAR 1929|Weakley County, Tennessee, USA|4 FEB 1999|Obion County, Tennessee, USA|
+g1/p23.htm#i574|Watts|Racheal Dean /Watts/|16 NOV 1931|Detroit, Wayne, Michigan, USA|8 JAN 2024|Wingo, Graves, Kentucky, USA|
+g1/p23.htm#i575|Lovier|Maxine /Lovier/|26 AUG 1917|Arkansas, USA|DEC 1981|Franklin, Kentucky, USA|
+g1/p24.htm#i576|Watts|Lloyd /Watts/|2 DEC 1893|Tennessee, USA|8 FEB 1941|Outwood, Christian County, Kentucky, United States of America|
+g1/p24.htm#i577|Watts|Mattie Pearl /Watts/|23 APR 1928|Detroit, Wayne County, Michigan, USA|14 JAN 1929|Detroit, Wayne County, Michigan, USA|
+g1/p24.htm#i578|Dodd|James Washington /Dodd/|1 NOV 1855|Livingston County, Kentucky, USA|18 NOV 1929|San Luis Obispo, California, USA|
