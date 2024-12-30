@@ -1,5 +1,5 @@
 # Project Name
-EJ Heinz 2025 Static Website Project
+EJ Heinz 2025 Responsive Static Website Project
 
 ## Description
 This is Ver 1 of my latest website build. It will be completed in early 2025. The older (now wip) site is parked at https://ejheinz.center/GedSite/EJ-o/up/index.htm and as this code shows, compared to the original source code, is that there are many html, CSS and Java upgrades. 
@@ -8,9 +8,11 @@ This is Ver 1 of my latest website build. It will be completed in early 2025. Th
 This repository contains the new coding for the upcoming site.
 
 ## Getting Started
+ You can view the site after tge 2025 release at tge URL above.
+ 
 ### Prerequisites
-- Chrome
-- Html5
+- Chrome with third party cookies enabled
+- HTML
 - Java
 - CSS
 - Backend calls
