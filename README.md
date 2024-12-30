@@ -8,7 +8,7 @@ This is Ver 1 of my latest website build. It will be completed in early 2025. Th
 This repository contains the new coding for the upcoming site.
 
 ## Getting Started
- You can view the site after tge 2025 release at tge URL above.
+ You can view the site after the 2025 release at the URL above.
  
 ### Prerequisites
 - Chrome with third party cookies enabled
