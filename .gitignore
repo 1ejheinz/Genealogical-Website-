@@ -1,0 +1,48 @@
+# .gitignore – Custom for Genealogical-Website-
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor junk
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node and frontend build artifacts
+node_modules/
+dist/
+build/
+.cache/
+
+# Sensitive or private config
+.env
+*.key
+*.pem
+*.crt
+*.cert
+
+# Large files (exclude raw assets over 100MB)
+resources/*.zip
+resources/*-raw.pdf
+img/originals/*
+
+# Generated sitemap or crawl data
+sitemap.xml
+sitemap.txt
+
+# OSF upload artifacts or placeholders
+uploads/
+
+# Security note: manually audit any PDFs or media over 50MB
