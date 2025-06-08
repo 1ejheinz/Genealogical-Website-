@@ -38,6 +38,10 @@ resources/*.zip
 resources/*-raw.pdf
 img/originals/*
 
+# Exclude raw documents and presentations
+*.pdf
+*.pptx
+
 # Generated sitemap or crawl data
 sitemap.xml
 sitemap.txt
