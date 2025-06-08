@@ -1,25 +1,60 @@
-# Project Name
-EJ Heinz 2025 Responsive Static Website Project
+# EJ Heinz 2025 Responsive Static Website Project
 
 ## Description
-This is Ver 1 of my latest website build. The site is parked at https://ejheinz.center/index.htm and as this code shows, compared to the original source code, is that there are many html, CSS and Java upgrades. 
 
-## Database
-This repository contains the new coding for the upcoming site.
+This is Version 1 of my latest static genealogical website, hosted live at:
+➡️ **https://ejheinz.center/up/**
 
-## Getting Started
- You can view the site after the 2025 release at the URL above.
- 
-### Prerequisites
-- Chrome with third party cookies enabled
-- HTML
-- Java
-- CSS
-- Backend calls
-- Java CDM
-- Git
+The project is structured as a manually deployed, static HTML/CSS/JS site with long-term archival layout and clean modular design. It uses a verified folder hierarchy based on the live deployment — not assumed defaults.
 
-### Installation
-1. Clone the repository:
-   ```sh 
-   git clone https://github.com/1ejheinz/Genealogical-Website-
+---
+
+## 🔧 Technologies Used
+
+- HTML5 / CSS3
+- Vanilla JavaScript
+- Responsive static layout
+- Font and icon packs (custom and NC variants)
+- Git Large File Storage (LFS) for managing large files
+
+---
+
+## 📁 Full Folder Structure (Live Site: `/up/`)
+
+/up/
+├── css/ # Stylesheets
+├── data1/ # Slider data/images
+├── engine1/ # Slider/gallery engine
+├── featured/ # Homepage banners/features
+├── fonts/ # Web font assets
+├── icons/ # PNG/SVG icon sets
+├── img/ # Primary image assets
+├── js/ # JavaScript files
+├── logos/ # Logo images
+├── nc-icon/ # NC-themed icons
+├── pictograms/ # Symbol-based icons
+├── sp/ # Section-specific content
+├── st/ # Static data folders
+├── ti/ # Timeline content
+├── ui/ # User interface assets
+├── index.htm # Homepage
+├── about.htm
+├── contact.htm
+├── research.htm
+├── history.htm
+├── news.htm
+└── sitemap.xml # Sitemap for search engines
+
+
+
+## 📄 Static Pages
+
+All pages are standalone `.htm` files under `/up/`:
+
+- `/index.htm` – Homepage
+- `/about.htm` – About the project
+- `/contact.htm` – Contact information
+- `/research.htm` – Research data & archives
+- `/history.htm` – Historical background
+- `/sitemap.xml` – Sitemap reference
+
